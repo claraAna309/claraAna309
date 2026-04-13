@@ -1,5 +1,5 @@
 # 💫 About Me:
- -🐱‍👤 Olá, me chamo Ana Clara,<br><br> -📍 Juazeiro do Norte - CE. <br><br> -👩‍🎓 Estou no meu segundo ano do curso de Desenvolvimento de Sistemas no Senai;<br> -💻 Tenho experiência em JavaScript, Python, C++, HTML5, CSS, PostgreSQL, além de estar adquirindo conhecimento constante na área de TI;<br> -👩‍💻 Desenvolvi uma grande paixão pela tecnologia desde cedo criando afinidade com jogos e designers;<br> -🚀 Sempre estar em evolução constante para o meu futuro é uma meta para a minha vida, com o intuito de cada vez mais estar aperfeiçoando meus conhecimentos e alcançando as objetivos.<br>
+ -🐱‍👤 Olá, me chamo Ana Clara,<br><br> -📍 Brasília-DF. <br><br> -👩‍🎓 Estou no meu primeiro semestre de Ciencia da Computação;<br> -💻 Tenho experiência em JavaScript, Python, C++, HTML5, CSS, PostgreSQL, além de estar adquirindo conhecimento constante na área de TI;<br> -👩‍💻 Desenvolvi uma grande paixão pela tecnologia desde cedo criando afinidade com jogos e designers;<br> -🚀 Sempre estar em evolução constante para o meu futuro é uma meta para a minha vida, com o intuito de cada vez mais estar aperfeiçoando meus conhecimentos e alcançando as objetivos.<br>
 
 
 # 💻 Tech Stack:
